@@ -1,0 +1,14 @@
+{
+  "name": "tecsup-2023-tarea-martinezsaave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "max martinez saavedra",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
